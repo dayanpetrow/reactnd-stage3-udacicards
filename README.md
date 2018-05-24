@@ -1,2 +1,2 @@
-# reactnd-stage3-udacicards
-React Nanodegree Stage 3 Project :: UdaciCards
+# reactnd-udacicards
+Udacity React Nanodegree Project: Mobile Flashcards with React Native
